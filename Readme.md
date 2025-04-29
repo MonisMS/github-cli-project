@@ -1,7 +1,7 @@
 # GitHub CLI Project
 
 A simple Node.js CLI tool to fetch and display recent GitHub user activity using the GitHub API.
-
+[Project URL](https://roadmap.sh/projects/github-user-activity)
 ## Features
 
 - Fetches recent events for a GitHub user.
